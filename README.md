@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Squashie01
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... On Earth
 
